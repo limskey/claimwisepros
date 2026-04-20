@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "claimwisepros",
+  "compatibility_date": "2026-04-20",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "claimwise_pro_site_build"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
